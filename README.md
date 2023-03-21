@@ -23,6 +23,7 @@ The project consists of the following files:
 - react-icons: A library that provides a set of icons for React.
 
 ## Demo
+![Screenshot Capture - 2023-03-21 - 13-58-23](https://user-images.githubusercontent.com/115978151/226555742-6f9d0f52-96d4-4fda-a9ed-96f090e18ff9.png)
 
 ## Hosted Link
 
