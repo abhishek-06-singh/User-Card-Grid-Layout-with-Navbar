@@ -5,10 +5,6 @@ import "./styles.css";
 import "./navbar.css";
 
 export default function App() {
-  const handleAnchorClick = (event) => {
-    console.log("Anchor element clicked");
-    console.log(event.currentTarget);
-  };
   const [users, setUsers] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
